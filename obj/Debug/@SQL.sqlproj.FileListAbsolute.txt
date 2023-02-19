@@ -1,0 +1,12 @@
+c:\Programmierung\Repositories\@SQL\bin\Debug\@SQL.dacpac
+c:\Programmierung\Repositories\@SQL\bin\Debug\@SQL.dll
+c:\Programmierung\Repositories\@SQL\bin\Debug\@SQL.pdb
+c:\Programmierung\Repositories\@SQL\bin\Debug\master.dacpac
+c:\Programmierung\Repositories\@SQL\obj\Debug\@SQL.sqlproj.AssemblyReference.cache
+c:\Programmierung\Repositories\@SQL\obj\Debug\Model.xml
+c:\Programmierung\Repositories\@SQL\obj\Debug\refactor.xml
+c:\Programmierung\Repositories\@SQL\obj\Debug\postdeploy.sql
+c:\Programmierung\Repositories\@SQL\obj\Debug\predeploy.sql
+c:\Programmierung\Repositories\@SQL\obj\Debug\@SQL.sqlproj.CopyComplete
+c:\Programmierung\Repositories\@SQL\obj\Debug\@SQL.dll
+c:\Programmierung\Repositories\@SQL\obj\Debug\@SQL.pdb

@@ -1,0 +1,4 @@
+CREATE TYPE [@@].[Type]
+    FROM SQL_VARIANT NULL;
+GO
+

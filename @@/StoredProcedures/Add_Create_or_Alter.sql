@@ -1,0 +1,14 @@
+
+
+CREATE PROCEDURE [@@].[Add_Create_or_Alter]
+@Template NVARCHAR (MAX) OUTPUT
+AS
+BEGIN
+IF LEFT(@Template,6)='CREATE' AND SUBSTRING(@Template,7,1) IN (' ',CHAR(9),CHAR(10),CHAR(13))
+BEGIN
+	SET @Template=STUFF(@Template,1,6,'CREATE OR ALTER')
+END
+END
+RETURN 0
+GO
+
